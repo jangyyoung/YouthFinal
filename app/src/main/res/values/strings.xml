@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">YouthFinal</string>
+    <string name="action_settings">Settings</string>
+    <item name="action_settings" type="id" />
+    <string-array name="정책유형">
+        <item>선택해주세요</item>
+        <item>취업역량강화</item>
+        <item>창업지원</item>
+        <item>생활안정</item>
+        <item>주거,복지,금융</item>
+        <item></item>
+    </string-array>
+    <string-array name="세부유형_취업역량강화">
+        <item>선택해주세요</item>
+        <item>취업지원금</item>
+        <item>교육휸련,처험,인턴</item>
+        <item>전문분야취업지원</item>
+        <item>해외진출</item>
+        <item>서류/면접지원</item>
+        <item>취업지원프로그램</item>
+        <item>청년참여활동</item>
+    </string-array>
+    <string-array name="세부유형_창업지원">
+        <item>선택해주세요</item>
+        <item>사업화</item>
+        <item>시설/공간제공</item>
+        <item>정책자금</item>
+        <item>R&amp;D지원</item>
+        <item>경영지원</item>
+        <item>자본금지원</item>
+    </string-array>
+    <string-array name="세부유형_생활안정">
+        <item>선택해주세요</item>
+        <item>자산형성</item>
+        <item>학자금</item>
+        <item>대출/이자</item>
+        <item>생활보조(금)</item>
+        <item>문화/여가</item>
+        <item>교통지원</item>
+        <item>건강</item>
+    </string-array>
+    <string-array name="세부유형_주거_복지_금융">
+        <item>선택해주세요</item>
+        <item>기숙사/생활관</item>
+        <item>주택지원</item>
+        <item>전월세자금</item>
+        <item>신혼부부</item>
+        <item>매입임대</item>
+        <item>학자금지원</item>
+    </string-array>
+</resources>
